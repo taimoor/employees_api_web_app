@@ -1,0 +1,1 @@
+json.array! @employees, :name, :code, :salary, :designation, :gender
